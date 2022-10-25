@@ -4,4 +4,5 @@ https://rpalearners.com/how-to-create-a-datatable-from-excel-in-uipath/#:~:text=
 https://www.youtube.com/watch?v=lw6bxrMNzfM&t=1314s
 https://forum.uipath.com/t/version-2021-10-3-missing-open-browser/357800
 https://forum.uipath.com/t/open-browser-package/316192
+https://www.youtube.com/watch?v=BAYmmUuB2Zo
 
