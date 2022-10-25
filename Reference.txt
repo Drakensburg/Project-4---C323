@@ -3,4 +3,5 @@ https://forum.uipath.com/t/how-to-convert-excel-to-datatable-in-uipath/321763
 https://rpalearners.com/how-to-create-a-datatable-from-excel-in-uipath/#:~:text=By%20using%20an%20Excel%20application,to%20create%20a%20data%20table.&text=If%20the%20excel%20file%20has,will%20save%20the%20file%20automatically.
 https://www.youtube.com/watch?v=lw6bxrMNzfM&t=1314s
 https://forum.uipath.com/t/version-2021-10-3-missing-open-browser/357800
+https://forum.uipath.com/t/open-browser-package/316192
 
