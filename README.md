@@ -1,1 +1,10 @@
 # Project-4---C323
+## Background
+Any solution must undergo testing, which may be carried out from a variety of angles, including internal development team testing and business user acceptability testing (UAT). Additionally, there are several testing methodologies that may be used on a product, and user acceptability testing is typically carried out quite manually. Most development lifecycles contain UAT as a critical stage that serves as the "go/no-go" decision maker. The goal of UAT is to confirm that the input given to the solution produces the desired results. As the solution would typically not be published to production unless it passes all tests in UAT, if the solution does not provide the expected result, it needs to be changed and retested.  
+Robotic process automation (RPA) is the term for the application of technology to replicate human activities in a manner similar to how a person would carry out a process. Typically, this refers to automation on the "front end" or UI (User Interface). RPA is frequently used to automate laborious, repetitive processes so that workers have more time to focus on creative work.  
+Take the web application you developed for Project 3 as an example. Before the solution could be put into use, it would need to pass through UAT, which would be performed by a team of "testers" who would have access to a test dataset that had input data and the expected output data. Then, the testers would feed each record of input data into each web application field and check to see if the expected result is produced. In this instance, the intended result would be for a new record to be presented after the item has been placed on the online application. This would result in a very repetitious procedure that can and ought to be automated using RPA in this situation.
+## Progress Report
+20/10/22 - Github Administration - Complete  
+20/10/22 - Project Setup - Complete  
+25/10/22 - User Acceptance Testing - Complete  
+25/10/22 - Project Close Out - Complete  
